@@ -169,7 +169,7 @@ session_start();
     data.addRow([my_1d[i][0], parseInt(my_1d[i][1])]);
        var options = {
 		   
-          title: 'plus2net.com Sale Profit',
+          title: 'Graph of Total versus Date',
           hAxis: {title: 'Date',  titleTextStyle: {color: '#333'}},
           vAxis: {title:'Total',minValue: 0},
 		   colors: ['navy','black']
